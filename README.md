@@ -8,4 +8,4 @@ They contribute various tools aimed at decentralizing services and enhancing pri
 
 Many of their repositories are useful for individuals looking to establish secure and private online environments or to explore more autonomous server and network configurations.
 
-You will find the projects at [here](https://it-kuny.ch/IT-Kuny/)
+You will find the projects at [here](https://git.it-kuny.ch/IT-Kuny/)
